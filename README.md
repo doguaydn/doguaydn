@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Doğukan%20Aydın&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Backend%20Developer%20|%20Cloud%20Architect%20|%20AI%20Enthusiast&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Doğukan%20Aydın&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Backend%20Developer%20|%20Cloud%20Architect%20and%20AI%20Enthusiast&descSize=20&descAlignY=55" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+Scalable+Backend+Systems;Node.js+%7C+Express.js+%7C+PostgreSQL;AWS+%26+Docker+Enthusiast;FullStack+Development;AI+%26+Machine+Learning+Researcher" alt="Typing SVG" /></a>
