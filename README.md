@@ -109,7 +109,7 @@ SQL          ████████████████████░   9
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/doguaydn/doguaydn/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/doguaydn/doguaydn/output/dist/github-snake-dark.svg)
 
 </div>
 
